@@ -1,4 +1,4 @@
----
+cx ---
 next: false
 ---
 
@@ -26,7 +26,7 @@ are outside of anyone's control (snow days, global pandemics, etc.)
 
 - 1.0 Syllabus quiz
 - 1.1 Course Introduction
-- 1.2 Introduction Reading Assignment (ch1)
+- 1.2 Introduction Reading Assignment (Ch.1)
 
 ### Week 2
 
@@ -150,7 +150,7 @@ course learning outcomes.
 
 We will be using zyBooks as our textbook. You should be prompted to sign
 up for the book when you complete the first assignment that is linked in
-Canvas. Do not go to the zyBooks website and create a new account you
+Canvas. Do not go to the zyBooks website and create a new account. You
 **must** sign up through Canvas so that your progress is properly
 recorded.
 
@@ -193,6 +193,6 @@ There are several individual projects this semester.
   group based and allow you to practice not only your web development skills but
   also use git and GitHub in a team-based environment. All grades are given
   **individually** so even though you will work in a group, your grade will
-  not be impacted by any team members lack of effort or contributions.
+  not be impacted by any team member's lack of effort or contributions.
 
 <!--@include: ../../parts/syllabus-boiler.md-->
